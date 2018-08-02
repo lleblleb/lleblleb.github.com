@@ -1,0 +1,11 @@
+body {
+    width: 100%;
+}
+
+.frame {
+    width: 800px;
+    margin: 0 auto;
+}
+.header, .section, .footer {
+    border: 1px solid #999;
+}
