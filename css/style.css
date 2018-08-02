@@ -1,11 +1,26 @@
 body {
-    width: 100%;
 }
 
 .frame {
     width: 800px;
     margin: 0 auto;
 }
-.header, .section, .footer {
+
+.header, .content, .footer {
     border: 1px solid #999;
+}
+
+.header {
+    padding: 40px 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.content {
+    margin 20px 20px 0;
+}
+
+.footer {
+    text-align: center;
+    margin: 20px 20px 0;
 }
